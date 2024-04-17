@@ -7,13 +7,13 @@ To determine & simulate the displacement & velocity analysis for the given slide
 An engine mechanism is shown. The Crank CB = 200mm and the connecting rod BA = 600mm. In the position shown, the crankshaft has a speed of 50 rad/s and an angular acceleration of 800 rad/s2
 
 ## REQUIREMENTS:
-   ●	Mech Analyzer software.
-   ●	Processor: Minimum 1.5 GHz
-   ●	RAM: Minimum 512 MB
-   ●	Operating System: Windows XP, Windows Vista, Windows 7, Windows 8 or higher.
-   ●	Dependencies: Microsoft .Net 2.0 framework
-   ●	Mini Drafter.
-   ●	Geometry instruments.
+   ●	Mech Analyzer software.</br>
+   ●	Processor: Minimum 1.5 GHz</br>
+   ●	RAM: Minimum 512 MB</br>
+   ●	Operating System: Windows XP, Windows Vista, Windows 7, Windows 8 or higher.</br>
+   ●	Dependencies: Microsoft .Net 2.0 framework</br>
+   ●	Mini Drafter.</br>
+   ●	Geometry instruments.</br>
 
 ## PROCEDURE:
   Configuration diagram
